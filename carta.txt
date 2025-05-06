@@ -3,3 +3,6 @@ Buenos tardes,
 Me dirijo a usted...
 
 awsd
+Me dirijo a usted en relacion a....
+
+//agregar nombre destinatario
